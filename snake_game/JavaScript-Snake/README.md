@@ -26,4 +26,4 @@ User will get final score as no. of apples/boxes eaten by snake after he touches
 
 ## Screenshots of the interface
 
-![App Screenshot](https://love2dev.com/img/wide310x150logoscale-400-1240x600.png)
+![WhatsApp Image 2022-12-17 at 2 53 57 AM](https://user-images.githubusercontent.com/108572171/208209293-fbbf2277-346d-4e74-988d-0c62e3eac979.jpeg)
