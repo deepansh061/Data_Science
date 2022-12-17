@@ -22,3 +22,5 @@ Project is deployed using flask and converted into a dynamic website.
 ## Screenshots of the Interface
 ![WhatsApp Image 2022-12-17 at 4 19 21 PM (1)](https://user-images.githubusercontent.com/108572171/208238596-12fbaa43-421d-46e4-b25a-149336aa3052.jpeg)
 
+
+![WhatsApp Image 2022-12-17 at 4 19 24 PM (1)](https://user-images.githubusercontent.com/108572171/208238649-1347f3fa-3709-4291-85e6-b494b4c9a08d.jpeg)
