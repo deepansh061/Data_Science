@@ -4,6 +4,8 @@
 
 
 ## Methodology
+![Screenshot 2022-12-17 162520](https://user-images.githubusercontent.com/108572171/208238337-0a5022a4-0d1a-4760-a8c8-69eac947f7a0.jpg)
+
 ## Description
 This movie recommendation system is capable of recommending the top 20 movie preference for a user on the basis of his top 5 favourite movies and their genre.
 The concept of probabilities and weighted matrices has been used to develop this model.
