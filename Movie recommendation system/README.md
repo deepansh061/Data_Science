@@ -13,4 +13,8 @@ At first, the movie data set genre is converted into 1s and 0s (1 being genre al
 Project is deployed using flask and converted into a dynamic website.
 
 ## Input/Output
+###Input
+![WhatsApp Image 2022-12-17 at 4 21 41 PM](https://user-images.githubusercontent.com/108572171/208238397-ef60a3db-4301-4c3b-aa92-2d97fa2b555c.jpeg)
+###Output
+
 ## Screenshots of the Interface
